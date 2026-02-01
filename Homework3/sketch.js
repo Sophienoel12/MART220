@@ -81,7 +81,7 @@ function draw() {
   textSize(12);
   textAlign(RIGHT, BOTTOM);
   fill(0);
-  text("", width - 10, height - 10);
+  text("Sophie Guilliams", width - 10, height - 10);
 }
 
 // ----- Mouse Event -----
