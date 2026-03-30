@@ -1,1 +1,8 @@
+For this assignment, I expanded my game by adding a particle system, enemy health, and a win condition. I used class examples from class materials and some online tutorials to understand how particle systems work and how to manage multiple objects using arrays.
+
+One of the main things I focused on was connecting the particle effects to player actions. I made sure particles only appeared when the player attacked an enemy, which helped improve the visual feedback of the game. I also added a health system to enemies so they would not disappear immediately, which made the gameplay feel more complete.
+
+A challenge I faced was getting the enemies to properly lose health and be removed at the right time. At first, they either disappeared too quickly or not at all. I fixed this by carefully checking the attack distance and making sure the health value decreased correctly before removing the enemy.
+
+Overall, I learned how to better organize my code, use arrays to manage multiple objects, and create more interactive gameplay. This assignment helped me understand how visual effects like particles can improve the player experience and make the game feel more polished.
 
