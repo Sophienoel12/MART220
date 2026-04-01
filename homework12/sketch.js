@@ -2,7 +2,7 @@ let angle = 0;
 let myFont;
 
 function preload() {
-  myFont = loadFont('NotoSans-VariableFont_wdth,wght.ttf'); // add a font file to your project
+  myFont = loadFont('NotoSans-VariableFont_wdth,wght.ttf'); 
 }
 
 function setup() {
