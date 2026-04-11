@@ -1,0 +1,7 @@
+For this project, I wanted to make something that felt dynamic and a little dreamy. I started by playing around with 3D shapes in p5.js, then added a 3D model (the cat) as the main focus. Getting the model to work was honestly one of the hardest parts. I had to fix file issues and rotate it so it wasn’t upside down, which helped me understand how 3D space works better.
+
+After that, I used an array to create multiple objects orbiting around the model. This made the scene feel more alive and organized. I also added textures to make everything more visually interesting, though I ran into some issues with file sizes and naming that I had to troubleshoot.
+
+For interaction, I made it so when you click, the objects move to new positions, which adds a fun, random element.
+
+I used the p5.js editor to build everything, along with image compression tools to fix my textures. I also used online resources and ChatGPT to help debug and improve my code. Overall, this project helped me get more comfortable with 3D design and problem-solving in coding.
